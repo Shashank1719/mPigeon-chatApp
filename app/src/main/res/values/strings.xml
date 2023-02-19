@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">mPigeon</string>
+    <string name="verify">Enter Phone Number</string>
+    <string name="welcome_otp_hello">mPigeon-Chat Application</string>
+    <string name="xxxxxxxxxx">Enter your Mobile Number</string>
+    <string name="enter_otp">OTP</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="did_not">Didnt Receive the OTP</string>
+    <string name="nameProf">Enter your Name </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="userName_Hint">Yash Shah</string>
+    <string name="enter_your_message">Enter Your Message</string>
+    <string name="settings">Settings</string>
+    <string name="log_out">Log Out</string>
+    <string name="create_a_group">Create a Group</string>
+    <string name="user_name_settings">User Name :</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="back_chat_detail">back</string>
+    <string name="send_button_chat_detail">send button</string>
+    <string name="call">Call</string>
+    <string name="menu_chat">Menu chat</string>
+    <string name="logo_otp_verify">OTP verify</string>
+    <string name="continue_otp_verify">Continue</string>
+    <string name="back_arrow_settings">Back Arrow Settings</string>
+    <string name="set_image_settings">Set Image</string>
+    <string name="about">About :</string>
+    <string name="enter_your_status">Enter Your Status</string>
+    <string name="save">Save</string>
+</resources>
